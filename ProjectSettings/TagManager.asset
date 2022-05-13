@@ -11,10 +11,6 @@ TagManager:
   - 
   - Water
   - UI
-  - Player
-  - PlayerOnly
-  - Environment
-  - Enemy
   - 
   - 
   - 
@@ -36,7 +32,11 @@ TagManager:
   - 
   - 
   - 
-  - Camera
+  - 
+  - 
+  - 
+  - 
+  - 
   m_SortingLayers:
   - name: Default
     uniqueID: 0
